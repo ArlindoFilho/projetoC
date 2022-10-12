@@ -8,6 +8,8 @@ int main(int argc, char const *argv[])
     system("cls"); // <- Limpar o termina.
 
     cout<< "Ola mundo"; // É um objeto de saida, então imprimira conteudo no termina. 
+    cout<< "Ola mundo1"; // É um objeto de saida, então imprimira conteudo no termina. 
+    cout<< "Ola mundo2"; // É um objeto de saida, então imprimira conteudo no termina. 
 
     // <- Para indicarmos um comentário em c++.
 
